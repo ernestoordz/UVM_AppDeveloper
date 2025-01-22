@@ -1,0 +1,7 @@
+let num = 10
+let numF = 2
+
+for (let i = 1; i <= num; i++) {
+    numF *= i
+}
+console.log(numF)

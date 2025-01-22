@@ -1,0 +1,6 @@
+let cadena = "La vida de un crítico"
+let cadenareves= ""
+for (let i = cadena.length - 1; i >= 0; i--){
+    cadenareves += cadena[i]
+}
+console.log(cadenareves)

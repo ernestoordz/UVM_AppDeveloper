@@ -1,0 +1,8 @@
+let texto = "La Vida de un critico";
+let contadorVocales = 0;
+for (let i = 0; i < texto.length; i++) {
+    if ("aeiouAEIOU".includes(texto[i])) {
+        contadorVocales++;
+    }
+}
+console.log(contadorVocales);
