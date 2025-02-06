@@ -1,0 +1,14 @@
+let x= 1
+let y= 2
+
+// Calcular operaciones básicas
+let suma = x + y;
+let resta = x - y;
+let multiplicacion = x * y;
+let division = x / y;
+
+// Imprimir resultados usando console.log
+console.log("Suma: " + suma);
+console.log("Resta: " + resta);
+console.log("Multiplicación: " + multiplicacion);
+console.log("División: " + division);

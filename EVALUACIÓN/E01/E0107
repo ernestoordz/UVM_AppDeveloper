@@ -1,0 +1,7 @@
+let i = 1;
+
+// Ciclo do-while que imprime los números del 1 al 3
+do {
+    console.log(i);
+    i++; // Incrementar la variable
+} while (i <= 3);

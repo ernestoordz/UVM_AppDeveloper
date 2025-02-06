@@ -1,0 +1,7 @@
+let i = 1;
+
+// Ciclo while que imprime los números del 1 al 5
+while (i <= 5) {
+    console.log(i);
+    i++; // Incrementar la variable
+}

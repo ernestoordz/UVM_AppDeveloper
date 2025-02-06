@@ -1,0 +1,5 @@
+let nombre = "Ernesto"
+let edad = 24
+
+// Mostrar el mensaje en consola
+console.log(`Hola, mi nombre es ${nombre} y tengo ${edad} años.`);
