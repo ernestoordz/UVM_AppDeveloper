@@ -1,4 +1,4 @@
-const { searchCountry } = require ('./library/searchCountry.js')
+const { searchCountry } = require ("C:\Programas\library")
 
 async function run() {
     const countries = await searchCountry(); 
